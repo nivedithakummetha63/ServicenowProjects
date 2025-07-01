@@ -125,6 +125,6 @@ Search the following in the left-hand Navigator:
 ---
 ## 🎥 Demo Video
 
-[🎬 Watch the Demo](DEMO_LINK)
+[🎬 Watch the Demo](https://drive.google.com/file/d/13tX_pn7UqYDo-e9PWPIfwbT7Fn_xo9oj/view?usp=drive_link)
 
 
